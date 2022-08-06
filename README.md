@@ -7,7 +7,7 @@ Items, stores and authentication REST API for deployment on Heroku.
   ___
   Python 3.7+
 
-  ## Instalation
+  ## Installation
   ___
   First, clone this repository.
   ```
