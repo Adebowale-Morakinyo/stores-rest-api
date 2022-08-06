@@ -22,9 +22,9 @@ Items, stores and authentication REST API for deployment on Heroku.
   - Test the api with your favourite API testing tool.
    
   ## About some files(configuration) 
-    >runtime.txt tells Heroku what language plus version to use.
-    >libaries in use are in requirements.txt(Heroku reads automatically).
-    >uwsgi.ini contains configuration parameters for the uswgi(on Heroku) to run the app.
-    >Procfile contains the Dyno(server) to use in Heroku.
+    > runtime.txt tells Heroku what language plus version to use.
+    > libaries in use are in requirements.txt(Heroku reads automatically).
+    > uwsgi.ini contains configuration parameters for the uswgi(on Heroku) to run the app.
+    > Procfile contains the Dyno(server) to use in Heroku.
 
 
