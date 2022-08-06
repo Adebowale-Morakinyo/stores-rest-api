@@ -14,12 +14,12 @@ Items, stores and authentication REST API for deployment on Heroku.
   $ git clone http://github.com/Adebowale-Morakinyo/stores-rest-api
   ```
   After:
-    - Get Heroku account.
-    - Create new app.
-    - Connect Heroku account with your Github account(Have this repo in your account).
-    - Search and select the right repo.
-    - Deploy branch.
-    - Test the api with your favourite API testing tool.
+  - Get Heroku account.
+  - Create new app.
+  - Connect Heroku account with your Github account(Have this repo in your account).
+  - Search and select the right repo.
+  - Deploy branch.
+  - Test the api with your favourite API testing tool.
    
   ## About some files(configuration) 
     >runtime.txt tells Heroku what language plus version to use.
