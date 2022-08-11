@@ -1,4 +1,4 @@
-## A simple Store CRUD REST_API(Heroku Deployment)
+## A CRUD REST_API for a store(Heroku Deployment)
 
 ### stores-rest-api
 Items, stores and authentication REST API for deployment on Heroku.
